@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭Meu nome é Lucas, possuo 21 anos no de 2023, sou estudante de Ciência da Computação<br>👯 Começarei a registrar meus estudos de programação no GitHub
+🔭Meu nome é Lucas, sou estudante de Ciência da Computação<br>👯 Começarei a registrar meus estudos de programação no GitHub
 
 
 ## 🌐 Socials:
