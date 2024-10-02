@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭My name is Lucas Andre, i'm a computer science student<br>👯 I'll be recording my studies about programming here on GitHub.
+🔭My name is Lucas Andre, i'm a computer science student<br>👯 I'll be recording my studies about programming here at GitHub.
 
 
 ## 🌐 Socials:
